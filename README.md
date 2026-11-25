@@ -6,6 +6,11 @@ Estudio de los ensayos de Barbacoaj transmitidos durante 2026. Incluye el prólo
 
 - `index.html`: informe interactivo autocontenido. No requiere compilación ni dependencias JavaScript externas.
 - `informe.pdf`: versión de lectura e impresión de 15 páginas.
+- `indice_emisiones_2026.csv`
+- `mapa_calor_minuto.csv`
+- `resultados_mensuales_2026.csv`
+- `resultados_por_ensayo_2026.csv`
+- `revision_05_marzo_etiquetas.csv`
 - `.nojekyll`: publica los archivos directamente con GitHub Pages.
 
 No se incluye ni redistribuye el archivo de tipografía original de la banda.
