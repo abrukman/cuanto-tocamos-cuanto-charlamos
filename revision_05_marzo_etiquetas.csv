@@ -1,0 +1,13 @@
+codigo,inicio_s,inicio_hhmmss,frac_clip_min,frac_clip_max,automatico,archivo,etiqueta_usuario,lectura,clase_original_automatica,prob_tocando_pre_exclusion,fraccion_muestras_clipping
+E01,55,00:00:55,0.367,0.382,F,E01_00m55s.mp3,X,No inteligible por distorsión,F,0.97,0.382
+E02,246,00:04:06,0.071,0.165,F,E02_04m06s.mp3,T,Ejecución musical,F,0.976,0.165
+E03,475,00:07:55,0.144,0.243,F,E03_07m55s.mp3,M,Mixto,F,0.971,0.144
+E04,688,00:11:28,0.334,0.438,F,E04_11m28s.mp3,B,Conversación / pausa,F,0.959,0.438
+E05,914,00:15:14,0.365,0.409,F,E05_15m14s.mp3,X,No inteligible por distorsión,F,0.97,0.409
+E06,1132,00:18:52,0.159,0.183,F,E06_18m52s.mp3,T,Ejecución musical,F,0.97,0.183
+E07,1405,00:23:25,0.188,0.223,F,E07_23m25s.mp3,T,Ejecución musical,F,0.974,0.188
+E08,1695,00:28:15,0.107,0.13,F,E08_28m15s.mp3,T,Ejecución musical,F,0.983,0.107
+E09,1916,00:31:56,0.17,0.185,F,E09_31m56s.mp3,T,Ejecución musical,F,0.962,0.185
+E10,2178,00:36:18,0.177,0.208,F,E10_36m18s.mp3,T,Ejecución musical,F,0.976,0.196
+E11,2316,00:38:36,0.106,0.112,F,E11_38m36s.mp3,T,Ejecución musical,F,0.98,0.112
+E12,2687,00:44:47,0.0,0.0,B,E12_44m47s.mp3,T,Ejecución musical,B,0.168,0.0
